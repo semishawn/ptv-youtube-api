@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XrrWtxk2iUJ2Q0Vl2xlEe5WfmhE",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1821,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9JHjilwL2NsDjCgfAFgcyGsHjhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iDQaTYYSJuA"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-10T12:44:59Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | December 10th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDQaTYYSJuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDQaTYYSJuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDQaTYYSJuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-10T12:44:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qxp6pTO6_LiidMM12YINnW7sN4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6cKFELXO2gg"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-09T17:40:04Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I December 9th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6cKFELXO2gg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6cKFELXO2gg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6cKFELXO2gg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-09T17:40:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QRJS8s-XGWWAywMvD2yytbB96-4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qSonH6d7ax4"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-09T12:45:40Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | December 9th 2021",
+        "description": "Parkland Morning News - December 9th 2021.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qSonH6d7ax4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qSonH6d7ax4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qSonH6d7ax4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-09T12:45:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KIosn9sz4r5mipbSNLoN9P59fj0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JlSwT3yFmPc"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T17:43:51Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I December 8th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JlSwT3yFmPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JlSwT3yFmPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JlSwT3yFmPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T17:43:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pjCJ71OuslmS5-YzdEe3QIJx3aY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1OSarwaxNNo"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T12:57:42Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News I December 8th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1OSarwaxNNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1OSarwaxNNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1OSarwaxNNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T12:57:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mSwtguIHFbXtNYw38G_dezo-1cM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l9UkDEv43HA"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T01:41:44Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland School District School Board Meeting - December 7, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l9UkDEv43HA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l9UkDEv43HA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l9UkDEv43HA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T01:41:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qbi6MLADLs66zhMhJS58SL_XUZI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VWt0j-T7Zdc"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T00:30:17Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland School District School Board Reorganization - December 7, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VWt0j-T7Zdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VWt0j-T7Zdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VWt0j-T7Zdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T00:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fFOQpWiNcGOr5t1y7YpLpFpUvXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ld5aPp3ABMM"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-07T17:46:49Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I December 7th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ld5aPp3ABMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ld5aPp3ABMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ld5aPp3ABMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-07T17:46:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X8MkN-bRHF5_5Jh6vEoXqLs9rnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kRHAaaConGQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-07T12:46:27Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | December 7th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRHAaaConGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRHAaaConGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRHAaaConGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-07T12:46:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ohQHRJHqkVPLqRD5D4NKlQMo6pA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UbyAiE1gbu0"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-06T12:47:18Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | December 6th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UbyAiE1gbu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UbyAiE1gbu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UbyAiE1gbu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-06T12:47:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sWaRuFExacXwpfQncOetF0otV0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oIWxU56EEZI"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-04T01:00:10Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Profile | December 3rd, 2021",
+        "description": "Parkland Profile brings you student-produced segments highlighting the Veteran's Memorial Veterans Day celebration, upcoming movie releases, tech news, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-04T01:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eR5pjkrcFQp2O5BjzAORGxLlrNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YSp7aiM_6xc"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-03T17:47:56Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News | December 3rd, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YSp7aiM_6xc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YSp7aiM_6xc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YSp7aiM_6xc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-03T17:47:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OZa77nYbBDQT2_P71RpOQ3J8IM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mNuKoq3dWzI"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-03T12:45:23Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | December 3rd, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNuKoq3dWzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNuKoq3dWzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNuKoq3dWzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-03T12:45:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y7jlDuHTa5nxtkhvpcMh_sMzgVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wvwzMWG9Pxk"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-02T17:47:31Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News | December 2nd, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wvwzMWG9Pxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wvwzMWG9Pxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wvwzMWG9Pxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-02T17:47:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UpAM2fFx440TQDatXUCmbG7KzqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m229EVbR5Lg"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-02T12:46:32Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | December 2nd, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m229EVbR5Lg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m229EVbR5Lg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m229EVbR5Lg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-02T12:46:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5JbhYhX3EYqbM6QF2DXSiG1BVIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HzN7jqKNkzs"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-01T17:42:16Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News | December 1st, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HzN7jqKNkzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HzN7jqKNkzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HzN7jqKNkzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-01T17:42:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7iGMFUmFnVaOufmMbq3wksrMDMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mIpDRj78xgw"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-01T12:46:07Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | December 1st, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mIpDRj78xgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mIpDRj78xgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mIpDRj78xgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-01T12:46:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7VlalcOXnVVYHgZxYw8sj538h1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5TAv_MTJhjw"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T17:53:15Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News | November 30th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TAv_MTJhjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TAv_MTJhjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TAv_MTJhjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T17:53:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G0WBsY6oMfSOd8gcXu4eSHmntDQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "leyRStn0bv0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T12:46:13Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | November 30th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/leyRStn0bv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/leyRStn0bv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/leyRStn0bv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T12:46:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "boSxO3fS4ZVD7F_REyMDQBZB3os",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NLJvHCguVZQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-28T18:38:29Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School Girls Basketball vs. Millersville Area High School",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NLJvHCguVZQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NLJvHCguVZQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NLJvHCguVZQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2021-11-28T18:38:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cqvwr9bc9QIcJjEO5V4YyDQpCKg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UOgqFWoAHu4"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-24T17:02:08Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Education Foundation | Giving Tuesday",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UOgqFWoAHu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UOgqFWoAHu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UOgqFWoAHu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-24T17:02:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wJDhxLwfLyCKRoAfI48OZKGYAiQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3HiV-99gzxc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-24T14:36:11Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School - Andre Williams Assembly - November 24, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3HiV-99gzxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3HiV-99gzxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3HiV-99gzxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-24T14:36:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7fALkZY9ySlm1Mok3iK5kz2ockY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vfi6pCA3y_o"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:44:26Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News - November, 23rd, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vfi6pCA3y_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vfi6pCA3y_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vfi6pCA3y_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:44:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mjb4FS0hW93PSZrixV_HNjRUnMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZnUacCFoWJY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T12:45:30Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | November 23rd, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZnUacCFoWJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZnUacCFoWJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZnUacCFoWJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T12:45:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4R2z9_7vi9f7ea2NEcw8yiELfx8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hqbd1kz5_gg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-22T17:50:34Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News | November 22nd, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hqbd1kz5_gg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hqbd1kz5_gg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hqbd1kz5_gg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-22T17:50:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MO39ToHpwAWNzLhJIwy9bFqYCMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZjCRKM5s7zc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-19T17:54:48Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News | November 19th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZjCRKM5s7zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZjCRKM5s7zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjCRKM5s7zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-19T17:54:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G0MRqt74gRvd26bKDhcwYrDXAgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hSjIBrvYuP0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-19T16:58:57Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "PMN | Mr. Verenna’s Dad Jokes with Vito",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hSjIBrvYuP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hSjIBrvYuP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hSjIBrvYuP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-19T16:58:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UgERl69RU9wPQUAf6P_MSIs9D-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tCKVSk-eubo"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-19T14:42:17Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School Girls Volleyball Pep Rally - November 19, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tCKVSk-eubo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tCKVSk-eubo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tCKVSk-eubo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-19T14:42:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DN29tgtlbYhGS4pP4n_2r7cVUa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XZWGAi95AmE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-19T12:49:22Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | November 19th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XZWGAi95AmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XZWGAi95AmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XZWGAi95AmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-19T12:49:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sJkoGznz0T8VM33AT6cmtbpA1lg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NZqvQB4-04Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-19T00:47:29Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School National Honors Society Inductions 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZqvQB4-04Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZqvQB4-04Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZqvQB4-04Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-19T00:47:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SLb29nF_7v37iX-jAcacRiaiZn0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RDsdDaSyjwU"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-18T17:54:47Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 18th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDsdDaSyjwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDsdDaSyjwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDsdDaSyjwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-18T17:54:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-ZmrY8o7Jei75AmVVIAOnEoimaE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qoczTrYwEc0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-18T12:46:42Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | November 18th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qoczTrYwEc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qoczTrYwEc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qoczTrYwEc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-18T12:46:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BuMeJLSbF-yuh-Q-vZIsHw644nI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6rbdp_pXCzU"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-17T17:48:46Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 17th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6rbdp_pXCzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6rbdp_pXCzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rbdp_pXCzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-17T17:48:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KoqwKw12XrJMU5l35fry7ezfWBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "alXARwBjaCY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-17T04:24:44Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland School District School Board Meeting - 8 PM Administration Center",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alXARwBjaCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alXARwBjaCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alXARwBjaCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-17T04:24:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MPXqJJisgrCR2FHT5YbqMbq7ZOY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bor7yCWVN8w"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-17T00:24:40Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland School District School Board Workshop - 7 PM - Administration Building",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bor7yCWVN8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bor7yCWVN8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bor7yCWVN8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-17T00:24:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9YwWObtIqRhsJ61WAmhY7xqVmPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tBF8KaNgSUQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-16T17:37:19Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 16th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tBF8KaNgSUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tBF8KaNgSUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tBF8KaNgSUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-16T17:37:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aiJRphh6QWjMwS4DyXbINdKQBKo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8IB2B1G3mH4"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-15T19:44:32Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "PMN | 2021 Veterans Day Parade",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8IB2B1G3mH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8IB2B1G3mH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8IB2B1G3mH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-15T19:44:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xz5vmeow8yifAPZYovGyRmPXZzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x2I1KEy-MAM"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-15T19:39:44Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "PMN | 2021 Veterans Day Parade - Teaser",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x2I1KEy-MAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x2I1KEy-MAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x2I1KEy-MAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-15T19:39:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "re-qWxs89crOC9IheIIbuVV5IG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YPeWYgGQDm0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-15T17:39:12Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 15th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YPeWYgGQDm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YPeWYgGQDm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPeWYgGQDm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-15T17:39:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-s05ITdCBAg2cPJgJftuCZqkOxI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8j3YFPmhOXg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-13T02:44:43Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School Football vs. Emmaus - District Playoffs - November 12, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8j3YFPmhOXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8j3YFPmhOXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8j3YFPmhOXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-13T02:44:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oFml59Lsi7nsIYVphjkxHBM_vfI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HxNmHz74vP0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T17:48:14Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 12th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HxNmHz74vP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HxNmHz74vP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HxNmHz74vP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T17:48:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bhygt9_Ve7p8uMr6kpBa40YvNAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C7pI2wcIc7o"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T17:46:29Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Emmaus vs Parkland I November 12th, 2021 Trailer",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C7pI2wcIc7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C7pI2wcIc7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C7pI2wcIc7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T17:46:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9cCdMqKdFZqOKh4f85uZIRANP5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uce9AiopKwI"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T12:49:16Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | November 12th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uce9AiopKwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uce9AiopKwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uce9AiopKwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T12:49:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EuSeyouD6CcphWthF-BRWX132Y0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C0ntIQ_6Wz8"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-11T17:48:59Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 11th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C0ntIQ_6Wz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C0ntIQ_6Wz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C0ntIQ_6Wz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-11T17:48:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iFxYXaO00nHKYoueMCanOZVZjTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iN8pTLfgjIw"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-10T17:51:12Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 10th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iN8pTLfgjIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iN8pTLfgjIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iN8pTLfgjIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-10T17:51:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OrkUwmX60n68lUjQbjClu27jDmE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "raj_GHS0sg8"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-10T12:47:35Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Morning News | November 10th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/raj_GHS0sg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/raj_GHS0sg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/raj_GHS0sg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-10T12:47:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jxb073Ds_jd10FqIrsn2rzVId8A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tw1d68z5lVw"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-10T02:28:01Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School vs. pennridge Varsity Womens&#39; Soccer",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tw1d68z5lVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tw1d68z5lVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tw1d68z5lVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-10T02:28:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4FzNKwir84wEiqyNglRjybcBCl0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TnmrP4ncqfo"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-10T00:46:05Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School Girl&#39;s Volleyball vs. Downingtown West - District Playoffs @6PM",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TnmrP4ncqfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TnmrP4ncqfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TnmrP4ncqfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-10T00:46:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8dYJp4zOFpdY-c-JJDocyU6lRYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "egfS0gI9pIc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-10T00:06:35Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland High School vs Downingtown West field hockey  Girl&#39;s Soccer",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/egfS0gI9pIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/egfS0gI9pIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/egfS0gI9pIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-10T00:06:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZigNmZmTewPexBbaZCawMzlfAJM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dvWAvViRAVc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-09T17:55:13Z",
+        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
+        "title": "Parkland Midday News I November 9th, 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dvWAvViRAVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dvWAvViRAVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dvWAvViRAVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Parkland TV & Film",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-09T17:55:13Z"
+      }
+    }
+  ]
+}
