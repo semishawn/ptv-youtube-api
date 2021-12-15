@@ -29,7 +29,7 @@ foreach ($uploadsArray["items"] as $video) {
 	array_push($uploadsNewArray, $videoElement);
 }
 
-$uploadsNewJSON = json_encode($uploadsNewArray, JSON_PRETTY_PRINT);
+$uploadsNewJSON = json_encode($uploadsNewArray);
 
 
 // Generate API call for Parkland Profiles playlist
@@ -55,7 +55,7 @@ foreach ($playlistArray["items"] as $video) {
 	array_push($playlistNewArray, $videoElement);
 }
 
-$playlistNewJSON = json_encode($playlistNewArray, JSON_PRETTY_PRINT);
+$playlistNewJSON = json_encode($playlistNewArray);
 
 
 
