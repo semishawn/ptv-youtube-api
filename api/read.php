@@ -8,10 +8,13 @@ $conn = pg_connect(getenv('DATABASE_URL'));
 
 // Read contents of JSON files as strings
 $recentUploads = pg_query($conn, "SELECT * FROM recent_uploads");
-$profilesPlaylist = pg_query($conn, "SELECT * FROM profiles_playlist");
+$uploadsArray = pg_fetch_all($recentUploads);
 
-// Encode both objects in array, encode into true JSON
-$data = json_encode(array($recentUploads, $profilesPlaylist));
+$profilesPlaylist = pg_query($conn, "SELECT * FROM profiles_playlist");
+$profilesArray = pg_fetch_all($recentUploads);
+
+// Store both objects in array, encode into true JSON
+$data = json_encode(array($uploadsArray, $profilesArray));
 
 // Return encoded data
 echo $data;
