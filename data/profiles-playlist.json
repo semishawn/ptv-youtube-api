@@ -1,141 +1,14 @@
-{
-  "kind": "youtube#playlistItemListResponse",
-  "etag": "5070Xt6xH2oH6DVceaDGLNcjpPY",
-  "items": [
+[
     {
-      "kind": "youtube#playlistItem",
-      "etag": "L3ZxMmsq8fRTl2PAQ2aEBP5HdyM",
-      "id": "UExjVG5CbUFXanpqUnpNNWc2dnZGYmQzTWxlNldUTU5nbi4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2021-10-08T15:40:56Z",
-        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
         "title": "Parkland Profile | October 1st, 2021",
-        "description": "Parkland Profile returns for its third season with student-produced segments highlighting the marching band, tech news, baseball stats, an interview with Character Counts, and more.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fyPXxkyXWw4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fyPXxkyXWw4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fyPXxkyXWw4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fyPXxkyXWw4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fyPXxkyXWw4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Parkland TV & Film",
-        "playlistId": "PLcTnBmAWjzjRzM5g6vvFbd3Mle6WTMNgn",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "fyPXxkyXWw4"
-        },
-        "videoOwnerChannelTitle": "Parkland TV & Film",
-        "videoOwnerChannelId": "UC7PBoxHyuZp1EC2qzgLK71Q"
-      }
+        "id": "fyPXxkyXWw4"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "2I2t6aXnChbSl9Q5i0TwPtHEoZ0",
-      "id": "UExjVG5CbUFXanpqUnpNNWc2dnZGYmQzTWxlNldUTU5nbi41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2021-11-05T23:20:28Z",
-        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
         "title": "Parkland Profile | November 5th, 2021",
-        "description": "Episode 2 of Parkland Profile brings you an interview with former New York Giants running back Andre Williams, a look into the productions of WFMZ news shows, and more.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ugXO0GRaZn8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ugXO0GRaZn8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ugXO0GRaZn8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Parkland TV & Film",
-        "playlistId": "PLcTnBmAWjzjRzM5g6vvFbd3Mle6WTMNgn",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ugXO0GRaZn8"
-        },
-        "videoOwnerChannelTitle": "Parkland TV & Film",
-        "videoOwnerChannelId": "UC7PBoxHyuZp1EC2qzgLK71Q"
-      }
+        "id": "ugXO0GRaZn8"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "qDBKuh2xjmdg2OFiOSpMOLIL-44",
-      "id": "UExjVG5CbUFXanpqUnpNNWc2dnZGYmQzTWxlNldUTU5nbi41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2021-12-04T00:03:15Z",
-        "channelId": "UC7PBoxHyuZp1EC2qzgLK71Q",
         "title": "Parkland Profile | December 3rd, 2021",
-        "description": "Parkland Profile brings you student-produced segments highlighting the Veteran's Memorial Veterans Day celebration, upcoming movie releases, tech news, and more.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oIWxU56EEZI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Parkland TV & Film",
-        "playlistId": "PLcTnBmAWjzjRzM5g6vvFbd3Mle6WTMNgn",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "oIWxU56EEZI"
-        },
-        "videoOwnerChannelTitle": "Parkland TV & Film",
-        "videoOwnerChannelId": "UC7PBoxHyuZp1EC2qzgLK71Q"
-      }
+        "id": "oIWxU56EEZI"
     }
-  ],
-  "pageInfo": {
-    "totalResults": 3,
-    "resultsPerPage": 5
-  }
-}
+]

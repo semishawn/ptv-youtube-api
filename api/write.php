@@ -6,22 +6,30 @@ $channelId = "UC7PBoxHyuZp1EC2qzgLK71Q";
 
 
 // Generate API call for last 100 uploads
-$maxResults = "100";
 $recentUploads = preg_replace('/\s/', "", "
 	https://www.googleapis.com/youtube/v3/search?
 	key=$apiKey
 	&channelId=$channelId
 	&part=snippet,id
 	&order=date
-	&maxResults=$maxResults
+	&maxResults=50
 ");
 
-// Copy API JSON data to file
+// Convert JSON file to database
 $uploadsJSON = file_get_contents($recentUploads);
-$uploadsFile = fopen("data/recent-uploads.json", "w");
-fwrite($uploadsFile, $uploadsJSON);
-fclose($uploadsFile);
+$uploadsArray = json_decode($uploadsJSON, true);
 
+$uploadsNewArray = [];
+foreach ($uploadsArray["items"] as $video) {
+	$videoElement = new stdClass;
+	$title = $video["snippet"]["title"];
+	$id = $video["id"]["videoId"];
+	$videoElement -> title = $title;
+	$videoElement -> id = $id;
+	array_push($uploadsNewArray, $videoElement);
+}
+
+$uploadsNewJSON = json_encode($uploadsNewArray, JSON_PRETTY_PRINT);
 
 
 // Generate API call for Parkland Profiles playlist
@@ -33,9 +41,32 @@ $profilesPlaylist = preg_replace('/\s/', "", "
 	&playlistId=$playlistId
 ");
 
-// Copy API JSON data to file
+// Convert JSON file to database
 $playlistJSON = file_get_contents($profilesPlaylist);
-$playlistFile = fopen("data/profiles-playlist.json", "w");
-fwrite($playlistFile, $playlistJSON);
-fclose($playlistFile);
+$playlistArray = json_decode($playlistJSON, true);
+
+$playlistNewArray = [];
+foreach ($playlistArray["items"] as $video) {
+	$videoElement = new stdClass;
+	$title = $video["snippet"]["title"];
+	$id = $video["snippet"]["resourceId"]["videoId"];
+	$videoElement -> title = $title;
+	$videoElement -> id = $id;
+	array_push($playlistNewArray, $videoElement);
+}
+
+$playlistNewJSON = json_encode($playlistNewArray, JSON_PRETTY_PRINT);
+
+
+
+// Upload JSON to database
+$conn = pg_connect(getenv("DATABASE_URL"));
+foreach ($uploadsNewArray as $video) {
+	pg_query("DELETE * FROM recent_uploads");
+	pg_query("INSERT INTO recent_uploads (title, id) VALUES ({$video["title"]}, {$video["id"]})");
+}
+foreach ($playlistNewArray as $video) {
+	pg_query("DELETE * FROM profiles_playlist");
+	pg_query("INSERT INTO profiles_playlist (title, id) VALUES ({$video["title"]}, {$video["id"]})");
+}
 ?>
