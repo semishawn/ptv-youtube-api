@@ -11,7 +11,7 @@ $recentUploads = pg_query($conn, "SELECT * FROM recent_uploads");
 $uploadsArray = pg_fetch_all($recentUploads);
 
 $profilesPlaylist = pg_query($conn, "SELECT * FROM profiles_playlist");
-$profilesArray = pg_fetch_all($recentUploads);
+$profilesArray = pg_fetch_all($profilesPlaylist);
 
 // Store both objects in array, encode into true JSON
 $data = json_encode(array($uploadsArray, $profilesArray));
