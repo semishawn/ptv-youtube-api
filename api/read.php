@@ -1,12 +1,12 @@
 <?php
-header('Access-Control-Allow-Origin: *');
-ini_set('display_errors', 1); 
+header("Access-Control-Allow-Origin: *");
+ini_set("display_errors", 1); 
 error_reporting(E_ALL);
 
 // Connect to database
-$conn = pg_connect(getenv('DATABASE_URL'));
+$conn = pg_connect(getenv("DATABASE_URL"));
 
-// Read contents of JSON files as strings
+// Read tables of database, convert to arrays
 $recentUploads = pg_query($conn, "SELECT * FROM recent_uploads");
 $uploadsArray = pg_fetch_all($recentUploads);
 
