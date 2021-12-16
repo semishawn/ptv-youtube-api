@@ -68,13 +68,13 @@ $playlistQuery = "";
 foreach ($uploadsNewArray as $video) {
 	$title = addslashes($video -> title);
 	$id = addslashes($video -> id);
-	$uploadsQuery .= "INSERT INTO recent_uploads (title, id) VALUES (\"$title\", \"$id\");\n";
+	$uploadsQuery .= "INSERT INTO recent_uploads (title, id) VALUES ('$title', '$id');";
 }
 
 foreach ($playlistNewArray as $video) {
 	$title = addslashes($video -> title);
 	$id = addslashes($video -> id);
-	$playlistQuery .= "INSERT INTO recent_uploads (title, id) VALUES (\"$title\", \"$id\");\n";
+	$playlistQuery .= "INSERT INTO recent_uploads (title, id) VALUES ('$title', '$id');";
 }
 
 pg_query($conn, "
