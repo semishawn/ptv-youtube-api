@@ -62,13 +62,25 @@ $playlistNewJSON = json_encode($playlistNewArray);
 // Upload JSON data to database
 $conn = pg_connect(getenv("DATABASE_URL"));
 
-pg_query($conn, "TRUNCATE TABLE recent_uploads;");
+$uploadsQuery = "";
+$playlistQuery = "";
+
 foreach ($uploadsNewArray as $video) {
-	pg_query($conn, "INSERT INTO recent_uploads (title, id) VALUES ('{$video -> title}', '{$video -> id}');");
+	$title = addslashes($video -> title);
+	$id = addslashes($video -> id);
+	$uploadsQuery .= "INSERT INTO recent_uploads (title, id) VALUES (\"$title\", \"$id\");\n";
 }
 
-pg_query($conn, "TRUNCATE TABLE profiles_playlist;");
 foreach ($playlistNewArray as $video) {
-	pg_query($conn, "INSERT INTO profiles_playlist (title, id) VALUES ('{$video -> title}', '{$video -> id}');");
+	$title = addslashes($video -> title);
+	$id = addslashes($video -> id);
+	$playlistQuery .= "INSERT INTO recent_uploads (title, id) VALUES (\"$title\", \"$id\");\n";
 }
+
+pg_query($conn, "
+	TRUNCATE TABLE recent_uploads;
+	TRUNCATE TABLE profiles_playlist;
+	$uploadsQuery
+	$playlistQuery
+");
 ?>
