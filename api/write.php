@@ -74,7 +74,7 @@ foreach ($uploadsNewArray as $video) {
 foreach ($playlistNewArray as $video) {
 	$title = addslashes($video -> title);
 	$id = addslashes($video -> id);
-	$playlistQuery .= "INSERT INTO recent_uploads (title, id) VALUES ('$title', '$id');";
+	$playlistQuery .= "INSERT INTO profiles_playlist (title, id) VALUES ('$title', '$id');";
 }
 
 pg_query($conn, "
