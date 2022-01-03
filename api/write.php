@@ -5,7 +5,7 @@ $channelId = "UC7PBoxHyuZp1EC2qzgLK71Q";
 
 
 
-// Generate API call for last 100 uploads
+// Generate API call for last 50 uploads
 $recentUploads = preg_replace('/\s/', "", "
 	https://www.googleapis.com/youtube/v3/search?
 	key=$apiKey
@@ -21,12 +21,14 @@ $uploadsArray = json_decode($uploadsJSON, true);
 
 $uploadsNewArray = [];
 foreach ($uploadsArray["items"] as $video) {
-	$videoElement = new stdClass;
-	$title = $video["snippet"]["title"];
-	$id = $video["id"]["videoId"];
-	$videoElement -> title = $title;
-	$videoElement -> id = $id;
-	array_push($uploadsNewArray, $videoElement);
+	if ($video["snippet"]["liveBroadcastContent"] == "none") {
+		$videoElement = new stdClass;
+		$title = $video["snippet"]["title"];
+		$id = $video["id"]["videoId"];
+		$videoElement -> title = $title;
+		$videoElement -> id = $id;
+		array_push($uploadsNewArray, $videoElement);
+	}
 }
 
 $uploadsNewJSON = json_encode($uploadsNewArray);
